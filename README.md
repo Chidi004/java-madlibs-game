@@ -22,5 +22,5 @@ A console-based Mad Libs game written in Java.
 - User input with Scanner
 - Variables and strings
 - Console output
-- [Add methods, loops, validation, etc. if you used them]
+
 
