@@ -6,7 +6,7 @@ A console-based Mad Libs game written in Java.
 - Asks the user for words such as nouns, verbs, and adjectives
 - Inserts the words into a story
 - Prints the completed story
-- [Add any extra feature you added]
+
 
 ## Technologies
 - Java
